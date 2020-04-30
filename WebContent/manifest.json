@@ -3,7 +3,7 @@
 	"sap.app": {
 		"id": "com.sap.sdrive.ui.fee",
 		"type": "application",
-		"i18n": "/sharedlib/i18n/i18n.properties",
+		"i18n": "i18n/i18n.properties",
 		"title": "{{feeAppTitle}}",
 		"description": "{{feeAppDescription}}",
 		"applicationVersion": {
@@ -62,7 +62,7 @@
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "sharedlib.i18n.i18n"
+					"bundleName": "com.sap.sdrive.ui.fee.i18n.i18n"
 				}
 			},
 			"DrivingSafety": {

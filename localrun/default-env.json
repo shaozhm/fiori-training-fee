@@ -1,5 +1,5 @@
 {
     "destinations": [
-        { "name": "service-backend", "url": "http://localhost:3000", "forwardAuthToken": true }
+        { "name": "service-backend", "url": "https://35d99719trial-dev-zhimin-service.cfapps.eu10.hana.ondemand.com/", "forwardAuthToken": true }
     ]
 }
